@@ -18,13 +18,13 @@
   <img align="left" alt="Type Script" width="26px" src="./Typescript_logo.svg" />
   <img align="left" alt="Python" width="26px" src="./Python-logo-notext.svg" />
   <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+  <img align="left" alt="Vue" width="26px" src="./Vue.js_Logo.svg" />
+  <img align="left" alt="Angular" width="26px" src="./Angular_full_color_logo.svg" />
   <img align="left" alt="Redux" width="26px" src="./Redux.png" />
   <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
   <img align="left" alt="Spring Boot" width="26px"  src="./spring-boot-logo.png" />
   <img align="left" alt="Django" width="26px"  src="./django-logo.svg" />
   <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-  <br />
-  <br/>
   <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
   <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
   <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
