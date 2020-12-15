@@ -1,4 +1,6 @@
 ### Hi there 👋
+  
+  # I'm Vikrant
 
   ### Welcome to My GitHub Profile.
   
@@ -29,6 +31,7 @@
   <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
   <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
   <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+  <br/>
   <img align="left" alt="Figma" width="26px" src="./figma-1.svg" />
   <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
   <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -44,7 +47,8 @@
   ## I’m currently learning
   
   #### Way too many things to be honest.
-  - 🌱 Angular. I am building my current website in angular. 
+  - <img align="left" alt="Angular" width="26px" src="./Angular_full_color_logo.svg" />
+Angular. I am building my current website in angular. 
   - 🌱 AWS Solutions Architect Associate.
   - 🌱 Statistics and mathematical concepts behind modern Machine Learning Algorithms. Pretty challenging if you ask me but I persevere.
   
