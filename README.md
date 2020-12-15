@@ -49,13 +49,17 @@
   ## I’m currently learning
   
   #### Way too many things to be honest.
-  - <img align="left" alt="Angular" width="26px" src="./Angular_full_color_logo.svg" /> I am building my current website in Angular. 
+  - <img align="left" alt="Angular" width="26px" src="./Angular_full_color_logo.svg" /> I am building my current website in Angular.
+  
   - <img align="left" alt="AWS" width="26px" src="./AWS_Logo.svg" /> AWS Solutions Architect Associate Certification.
+  
   - <img align="left" alt="ML" width="26px" src="./Hey_Machine_Learning_Logo.png" /> Statistics and mathematical concepts behind modern Machine Learning Algorithms. Pretty challenging if you ask me but I persevere.
   
   ## Connect With Me - 
-  - <img align="center" position="center" alt="linkedin | LinkedIn" width="20px" src="./Linkedin_icon.svg" /> [LinkedIn][LinkedIn]
-  - <img align="left" alt="SO" width="26px" src="./Stack_Overflow_icon.svg" /> [StackOverflow] Fun fact . I am in the top 15% members this year at S.O.Not a big achievment but it's a start.
+  - <img align="left" position="center" alt="linkedin | LinkedIn" width="20px" src="./Linkedin_icon.svg" /> [LinkedIn][LinkedIn]
+  
+  - <img align="left" alt="SO" width="26px" src="./Stack_Overflow_icon.svg" />[StackOverflow] Fun fact. I am in the top 15% members this year at S.O.Not a big achievment but it's a start.
+  
   - <img align="left" alt="GMAIL" width="26px" src="./Gmail_icon_(2020).svg" /> [Gmail](vikrantrath4@gmail.com)
  
 
