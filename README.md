@@ -32,6 +32,8 @@
   <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
   <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
   <br/>
+  <br/>
+  <br/>
   <img align="left" alt="Figma" width="26px" src="./figma-1.svg" />
   <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
   <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -47,19 +49,20 @@
   ## I’m currently learning
   
   #### Way too many things to be honest.
-  - <img align="left" alt="Angular" width="26px" src="./Angular_full_color_logo.svg" />
-Angular. I am building my current website in angular. 
-  - 🌱 AWS Solutions Architect Associate.
-  - 🌱 Statistics and mathematical concepts behind modern Machine Learning Algorithms. Pretty challenging if you ask me but I persevere.
+  - <img align="left" alt="Angular" width="26px" src="./Angular_full_color_logo.svg" /> I am building my current website in Angular. 
+  - <img align="left" alt="AWS" width="26px" src="./AWS_Logo.svg" /> AWS Solutions Architect Associate Certification.
+  - <img align="left" alt="ML" width="26px" src="./Hey_Machine_Learning_Logo.png" /> Statistics and mathematical concepts behind modern Machine Learning Algorithms. Pretty challenging if you ask me but I persevere.
   
-  ## Reach Me At - 
+  ## Connect With Me - 
   - <img align="center" position="center" alt="linkedin | LinkedIn" width="20px" src="./Linkedin_icon.svg" /> [LinkedIn][LinkedIn]
-  - 📫 Email - vikrantrath4@gmail.com
-  - 📫 Stack Overflow - https://stackoverflow.com/users/14004689/vikrant - Fun fact . I am in the top 15% members this year at S.O.Not a big achievment but it's a start.
+  - <img align="left" alt="SO" width="26px" src="./Stack_Overflow_icon.svg" /> [StackOverflow] Fun fact . I am in the top 15% members this year at S.O.Not a big achievment but it's a start.
+  - <img align="left" alt="GMAIL" width="26px" src="./Gmail_icon_(2020).svg" /> [Gmail](vikrantrath4@gmail.com)
+ 
 
 
 [Website]: https://www.fullstackfoodie.com
-[LinkedIn]: https://www.linkedin.com/in/vikrantrath/
+[LinkedIn]: https://www.linkedin.com/in/vikrantrath
+[StackOverflow]: https://stackoverflow.com/users/14004689/vikrant
 
 <!--
 **vikrantrath/vikrantrath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
