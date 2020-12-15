@@ -11,20 +11,24 @@
   
   ## I’m currently working on
   
-  #### You might want to visit my website that I am currently working on : www.fullstackfoodie.com
+  #### You might want to visit my website that I am currently working on : [Full Stack Foodie][Website]
   #### I apologize if you dont find many repos under my profile since a lot of them are private but I'd be happy to give you a tour of my private repos if you want. They range from multithreading optimization projects to GatsbyJs to Django.
   
   ## I’m currently learning
   
   #### Way too many things to be honest.
-  - 🌱 Angular. I am building my current website in angular
+  - 🌱 Angular. I am building my current website in angular. 
   - 🌱 AWS Solutions Architect Associate.
   - 🌱 Statistics and mathematical concepts behind modern Machine Learning Algorithms. Pretty challenging if you ask me but I persevere.
   
   ## Reach Me At - 
-  - 📫 Linkedin - https://www.linkedin.com/in/vikrantrath/
+  - <img align="center" position="center" alt="linkedin | LinkedIn" width="20px" src="./Linkedin_icon.svg" /> [LinkedIn][LinkedIn]
   - 📫 Email - vikrantrath4@gmail.com
   - 📫 Stack Overflow - https://stackoverflow.com/users/14004689/vikrant - Fun fact . I am in the top 15% members this year at S.O.Not a big achievment but it's a start.
+
+
+[Website]: https://www.fullstackfoodie.com
+[LinkedIn]: https://www.linkedin.com/in/vikrantrath/
 
 <!--
 **vikrantrath/vikrantrath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
