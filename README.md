@@ -43,7 +43,7 @@
   
   ## I’m currently working on
   
-   #### Check out this replica of a popular music streaming website I built on Vue 3 : [Spotify-Vue][Spotify-Vue]
+   #### Check out this replica of a popular music streaming website I built on Vue 3 : [Spotify-Vue][latest]
    #### You might want to visit my website that I am currently working on : [Full Stack Foodie][Website]
    #### I apologize if you dont find many repos under my profile since a lot of them are private but I'd be happy to give you a tour of my private repos if you want. They range from multithreading optimization projects to GatsbyJs to Django.
   
@@ -68,7 +68,7 @@
 - [MicroServices](https://www.fullstackfoodie.com)
 - [Upload Sessions](https://www.fullstackfoodie.com)
 
-[Spotify-Vue] https://www.github.com/vikrantrath/spotify-vue
+[latest]: https://www.github.com/vikrantrath/spotify-vue
 [Website]: https://www.fullstackfoodie.com
 [LinkedIn]: https://www.linkedin.com/in/vikrantrath
 [StackOverflow]: https://stackoverflow.com/users/14004689/vikrant
