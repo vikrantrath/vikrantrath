@@ -7,9 +7,9 @@
   ## A little bit about me
   
   - I am a full stack developer and I love every aspect of it.
-  - I consider myself a programming polyglot and aspire to learn atleast 3 more languages(apart from C, Java, JavaScript and Python) in the next 3 years.
+  - I consider myself a programming polyglot and aspire to learn atleast 3 more languages(apart from C, Java, JavaScript, Scala and Python) in the next 3 years.
   - I love sharing and teaching people the stuff I learn hence I regularly take sessions in my organization. I aspire to be able to widen my horizon as a teacher.
-  - I have been working as a FSD for about 3 years now but I have worked on multiple projects apart from my regular work across multiple technologies. I want to delve deeper into being an architect as I have experience in a broad spectrum of technologies along with their respective pros and cons. I aspire to be a solution's architect in the future.
+  - I have been working as a FSD for about 5 years now but I have worked on multiple projects apart from my regular work across multiple technologies. I want to delve deeper into being an architect as I have experience in a broad spectrum of technologies along with their respective pros and cons. I aspire to be a solution's architect in the future.
   
   ## Languages & Tools
   
